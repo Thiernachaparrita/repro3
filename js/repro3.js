@@ -15,7 +15,7 @@ return j.call(r(a),c)})),b))for(;i>h;h++)b(a[h],c,g?d:d.call(a[h],h,b(a[h],c)));
           		      	type: "/;type=mp3",
                       streampath: "/stream",
                       cors: "",
-                      logo: "img/rmth.png",//CAMBIA QUI LA FOTO QUANDO NON TROVA LA FOTO DEL ARTISTA.
+                      logo: "https://thiernachaparrita.github.io/repro3/img/rmth.png",//CAMBIA QUI LA FOTO QUANDO NON TROVA LA FOTO DEL ARTISTA.
           		      	servertitle: "",
                       show_listeners: true,
                       src: "",
